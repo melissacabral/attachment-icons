@@ -12,7 +12,7 @@ WordPress plugin for adding automatic icons for non-image attachments
 }```
 
 * OR add this shortcode to any post or page **`[icons]`**
-* 
+
 ##Supported File Types
 * PDF
 * PSD
