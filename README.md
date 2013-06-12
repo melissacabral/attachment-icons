@@ -10,7 +10,6 @@ WordPress plugin for adding automatic icons for non-image attachments
 ```if(function_exists('mc_get_attachment_icons')){
      echo mc_get_attachment_icons();
 }```
-* OR add this shortcode to any post or page **`[icons]`**
 
 ### How to add attachments
 * edit/write a post
